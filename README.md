@@ -1,5 +1,5 @@
 # AML_Final_Project
-We participated in the Kaggle Competition titled “Child Mind Institute–Problematic Internet Use.” This repository contains all of our code used to explore, process, and model the data. The data is not included here because it is too large to upload on GitHub. It is availabel on the [competition website](https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/data) though.
+We participated in the Kaggle Competition titled “Child Mind Institute–Problematic Internet Use.” This repository contains all of our code used to explore, process, and model the data. The data is not included here because it is too large to upload on GitHub. It is available on the [competition website](https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/data) though.
 
 File descriptions:
 
